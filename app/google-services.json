@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93709204088",
+    "project_id": "samamohsab",
+    "storage_bucket": "samamohsab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93709204088:android:7f683c914951a6b1420b8d",
+        "android_client_info": {
+          "package_name": "com.samamohsab.alfeel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAo64lDM4vH6ZvoUuLUI9e7Unbi2bGhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

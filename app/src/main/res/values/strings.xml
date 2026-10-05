@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سماء المحاسبين الشامل</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="sales">المبيعات</string>
+    <string name="purchases">المشتريات</string>
+    <string name="inventory">المخزون والأصناف</string>
+    <string name="customers_suppliers">الحسابات والعملاء</string>
+    <string name="vouchers">السندات واليومية</string>
+    <string name="reports">التقارير المالية</string>
+    <string name="cloud_sync">المزامنة السحابية</string>
+    <string name="settings">الإعدادات</string>
+
+    <string name="total_sales">إجمالي المبيعات</string>
+    <string name="total_purchases">إجمالي المشتريات</string>
+    <string name="cash_balance">رصيد الصندوق</string>
+    <string name="receivables">ديون العملاء</string>
+    <string name="payables">مستحقات الموردين</string>
+    <string name="today_sales">مبيعات اليوم</string>
+    <string name="today_invoices">فواتير اليوم</string>
+    <string name="low_stock">أصناف قاربت النفاد</string>
+
+    <string name="new_sale_invoice">فاتورة بيع جديدة</string>
+    <string name="new_purchase_invoice">فاتورة شراء جديدة</string>
+    <string name="receipt_voucher">سند قبض</string>
+    <string name="payment_voucher">سند صرف</string>
+    <string name="add_item">إضافة صنف</string>
+    <string name="add_customer">إضافة عميل / مورد</string>
+
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="search">بحث…</string>
+    <string name="print">طباعة ومشاركة</string>
+    <string name="details">التفاصيل</string>
+
+    <string name="customer_name">اسم العميل / المورد</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="account_type">نوع الحساب</string>
+    <string name="current_balance">الرصيد الحالي</string>
+    <string name="address">العنوان</string>
+    <string name="notes">ملاحظات</string>
+
+    <string name="item_name">اسم الصنف</string>
+    <string name="barcode">الباركود</string>
+    <string name="sale_price">سعر البيع</string>
+    <string name="cost_price">سعر الشراء / التكلفة</string>
+    <string name="quantity">الكمية</string>
+    <string name="category">الفئة</string>
+
+    <string name="invoice_number">رقم الفاتورة</string>
+    <string name="date">التاريخ</string>
+    <string name="payment_type">طريقة الدفع</string>
+    <string name="cash">نقداً</string>
+    <string name="credit">آجل</string>
+    <string name="subtotal">المجموع الفرعي</string>
+    <string name="discount">الخصم</string>
+    <string name="tax">الضريبة</string>
+    <string name="net_total">الصافي الإجمالي</string>
+
+    <string name="sync_now">مزامنة الآن</string>
+    <string name="backup_data">نسخ احتياطي للبيانات</string>
+    <string name="restore_data">استعادة البيانات</string>
+    <string name="sync_server_url">عنوان خادم المزامنة</string>
+    <string name="sync_api_key">مفتاح API السحابي</string>
+
+    <string name="confirm_delete">هل أنت متأكد من الحذف؟</string>
+    <string name="success_save">تم الحفظ بنجاح</string>
+    <string name="error_fill_fields">يرجى ملء كافة الحقول المطلوبة</string>
+</resources>
